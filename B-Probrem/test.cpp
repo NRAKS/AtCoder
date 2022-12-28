@@ -3,9 +3,10 @@ using namespace std;
 
 int main() {
     int N, sum;
+    string S;
     sum = 0;
-    cin >> N;
+    cin >> S;
 
-    cout << N%10000 <<endl;
+    cout << S <<endl;
 
 }
